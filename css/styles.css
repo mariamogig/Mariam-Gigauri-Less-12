@@ -1,0 +1,35 @@
+.logo-text {
+     font-size: 40px;
+}
+.btn {
+    background-image: linear-gradient(to right,#6156F9 , #1A129F);
+}
+.titles {
+    font-family: 'Poppins', sans-serif;
+}
+.title1 {
+    font-size: 50px;
+}
+.title2 {
+    font-size: 74px;
+}
+.secp {
+    font-size: 16px;
+    color: #7A839E;
+    max-width: 341px;
+    width: 100%;
+}
+.title1-2 {
+    color: #7E76F9;
+    font-size: 20px;
+}
+.title2-2 {
+    font-size: 50px;
+    color: #42495B;
+}
+.secp-2 {
+    font-size: 16px;
+    color: #7A839E;
+    max-width: 533px;
+    width: 100%;
+}
