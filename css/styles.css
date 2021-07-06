@@ -33,3 +33,11 @@
     max-width: 533px;
     width: 100%;
 }
+.card-size {
+    width: 366px;
+    height: 410px;
+}
+.image-size {
+    height: 90px;
+}
+
