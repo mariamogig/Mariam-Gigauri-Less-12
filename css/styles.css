@@ -1,17 +1,28 @@
 .logo-text {
      font-size: 40px;
 }
+.img1 {
+    max-width: 621px;
+    width: 100%;
+}
+.img2 {
+    max-width: 650px;
+    width: 100%;
+}
 .btn {
     background-image: linear-gradient(to right,#6156F9 , #1A129F);
 }
 .titles {
     font-family: 'Poppins', sans-serif;
+    max-width: 1140px;
 }
 .title1 {
     font-size: 50px;
 }
 .title2 {
     font-size: 74px;
+    max-width: 1120px;
+    width: 100%;
 }
 .secp {
     font-size: 16px;
@@ -36,8 +47,50 @@
 .card-size {
     width: 366px;
     height: 410px;
+    border-radius: 36px;
+    margin-bottom: 112px;
 }
 .image-size {
     height: 90px;
 }
+.titles2 {
+    margin-bottom: 90px;
+    margin-top: 126px;
+}
+.card-text {
+    height: 130px;
+    font-size: 15px;
+}
+.card-title {
+    font-size: 18px;
+}
+.containerh3 {
+    color: #7E76F9;
+    font-size: 25px;
+}
 
+/* footer styles */
+.ft-titles {
+    margin-top: 128px;
+}
+.fth4 {
+    color: #7E76F9;
+    font-size: 20px;
+}
+.fth2 {
+    font-size: 32px;
+    color: #42495B;
+    font-family: 'Poppins', sans-serif;
+}
+.email-box {
+    max-width: 430px;
+    width: 100%;
+    background-color: #EAECF2;
+    height: 52px;
+}
+.footer {
+    padding-bottom: 158px;
+}
+.ftbtn {
+    width: 170px;
+}
